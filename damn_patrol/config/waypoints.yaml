@@ -1,0 +1,8 @@
+frame_id: map
+loop_forever: true
+max_retries_per_goal: 2
+waypoints:
+  - {x: -1.8, y: -0.8, yaw: 0.0}
+  - {x:  1.4, y: -0.8, yaw: 1.57}
+  - {x:  1.4, y:  0.9, yaw: 3.14}
+  - {x: -1.6, y:  0.9, yaw: -1.57}
