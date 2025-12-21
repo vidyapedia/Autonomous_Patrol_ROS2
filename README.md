@@ -6,8 +6,8 @@ Autonomous waypoint patrol in a mapped environment using ROS 2 Humble + Nav2.
 Tested in Gazebo + RViz using TurtleBot3.
 
 ## Demo Videos
-- Manual localization + Nav2 goals: (add link)
-- Autonomous patrol + dynamic obstacles: (add link)
+- Manual localization + Nav2 goals: 
+- Autonomous patrol + dynamic obstacles: 
 
 ## What it does
 - Loads a saved map
@@ -19,7 +19,7 @@ Tested in Gazebo + RViz using TurtleBot3.
 ## Tech
 ROS 2 Humble • Nav2 • Gazebo • RViz2 • Python (rclpy)
 
-## How to run (high-level)
+## How to run 
 1) Launch Gazebo TurtleBot3 world  
 2) Launch Nav2 with map  
 3) Run patrol manager node with waypoints YAML  
