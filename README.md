@@ -26,7 +26,7 @@ ROS 2 Humble • Nav2 • Gazebo • RViz2 • Python (rclpy)
 4) Watch in RViz + record video
 
 ## Repo structure (to be filled after upload)
-- `patrol_ws/src/patrol_manager/` (your custom node)
+- `patrol_ws/src/patrol_manager/` 
 - `damn_patrol/config/waypoints.yaml`
 - `nav2_params/burger_fixed.yaml`
 - `results/` (metrics csv)
