@@ -113,7 +113,9 @@ cd patrol_ws
 colcon build
 source install/setup.bash
 ros2 run patrol_manager patrol_node
+```
 
-#Srividya Srinivas
+Srividya Srinivas
 M.S. Mechanical Engineering (Robotics and Controls)
 Columbia University, NY
+
