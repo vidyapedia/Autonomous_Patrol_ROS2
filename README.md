@@ -1,5 +1,3 @@
-# Autonomous_Patrol_ROS2
-
 # Autonomous Patrol Robot (ROS 2 + Nav2)
 
 Autonomous mobile robot system with SLAM, localization, dynamic replanning, and mission-level autonomy.  
